@@ -13,7 +13,7 @@ You can try the saving & lending platform at [tadpole.finance](https://tadpole.f
 4. Go to [tadpole.finance](https://tadpole.finance).
 5. On "Supply" tab, Switch on the "Enable" button for your desired Coin(s), and Confirm the transaction.
 
-6. Go to [Tadpole Goerli Test Contract](https://goerli.etherscan.io/address/0x520d849db6e4bf7e0c58a45fc513a6d633baf77e) to Claim some Test Tokens:
+6. Go to [Tadpole Goerli Test Contract](https://goerli.etherscan.io/address/0x31ec04a49031235487f2b886ba79240084dbd619) to Claim some Test Tokens:
 * Go to "Contract" Tab.
 * Click "Connect to Web3" and Approve the Connection Request.
 * Once Connected to Your Goerli Test Network Wallet, Click The "request" function in Tadpole Goerli Contract.
